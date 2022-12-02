@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.19022289766970618" />
+        <entry key="app/src/main/res/drawable/ic_asus_logo.xml" value="0.2025" />
+        <entry key="app/src/main/res/drawable/ic_instagram.xml" value="0.2265" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.2269021739130435" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.35052083333333334" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.2269021739130435" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/card_view_design.xml" value="0.3591485507246377" />
+        <entry key="app/src/main/res/layout/item_row_laptop.xml" value="0.1773049645390071" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.3645833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
